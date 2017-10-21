@@ -1,8 +1,8 @@
 ---
 layout: page
-title: hi :)
+title: about
 permalink: /about/
----
+
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
@@ -19,13 +19,13 @@ Right now, I'm looking for a 4 months internship from May - August 2018.
 <span class="contacticon center">
 	<a href="mailto:ailinliao1022@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/ailinliao" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://facebook.com/ailinliao95 target="_blank"><i class="fa fa-facebook"></i></a>
+	<a href="https://facebook.com/ailinliao95"><i class="fa fa-facebook-square"></i></a>
 	<a href="https://www.linkedin.com/in/ailinliao" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com/ailinbot" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	_______________
 </div>
 
